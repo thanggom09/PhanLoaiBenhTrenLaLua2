@@ -4,3 +4,6 @@ tensorflow
 Pillow
 streamlit-option-menu
 streamlit-webrtc
+torch
+torchvision
+opencv-python-headless
